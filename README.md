@@ -13,21 +13,30 @@
 
 
 ## Academic Skills for University Success Certificate
-![]()
-
-## Computer Communications Certificate
-![]()
-
-## Web Design for Everybody: Basics of Web Development & Coding Certificate
-![]()
-
-## Software Development Lifecycle Certificate
-![]()
-
-## CertNexus Certified Ethical Emerging Technologist Certificate
-![]()
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/AcademicSkill.png)
 
 ## Object Oriented Programming in Java
-![]()
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/oopInJava.png)
+
+## Web Design for Everybody: Basics of Web Development & Coding Certificate
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/WebDesign.png)
+
+## Java Database Connectivity
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/JavaDatabaseConect.png)
+
+## Software Development Lifecycle
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/SoftwaareDevelopLifecycle.png)
+
+## Computer Communications Certificate
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/chungchi1.png)
+
+## Project Management Principles and Practices
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/ProjectManagementPrinciples.png)
+
+## User Experience Research and Design
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/UserExperience.png)
+
+## CertNexus Certified Ethical Emerging Technologist Certificate
+![](https://github.com/NguyenDuyAnh-dev/My-Certificates/blob/main/images/CertNexus.png)
 
 #### Copyright &#169; 2024 NguyenDuyAnh-dev
